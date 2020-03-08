@@ -1,7 +1,7 @@
 # notes-app
 
-This is a CLI tool for taking notes.
-The notes are stored locally in the file ***notes.json***
+This is a CLI tool for taking notes. </br>
+The notes are stored locally in  ***notes.json***.
 
 ### Usage
 
@@ -11,3 +11,4 @@ The notes are stored locally in the file ***notes.json***
 `node app.js read --title 'Matan's address'`
 ##### List all stored notes:
 `node app.js list`
+
