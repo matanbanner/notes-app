@@ -1,6 +1,7 @@
 # notes-app
 
 This is a CLI tool for taking notes. </br>
+
 The notes are stored locally in  ***notes.json***.
 
 ### Usage
